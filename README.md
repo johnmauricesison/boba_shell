@@ -35,6 +35,9 @@ It displays output after each operation and continues running until you type the
 
 ## 🏗️ Infrastructure and Design
 
+<img width="724" height="737" alt="image" src="https://github.com/user-attachments/assets/3dcac063-0631-48cf-8b02-9f354246cdbe" />
+
+
 ### Flow Summary
 The design of **BobaShell** follows a simple and clear loop:
 
